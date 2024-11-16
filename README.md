@@ -19,7 +19,7 @@ The **SignUp Flow** includes:
 Below are some previews of the design:
 
 ### SignUp Screen
-![SignUp Screen](path/to/your/signup-screen-image.png)
+![SignUp Screen](https://github.com/user-attachments/assets/51ac4aa1-f4d1-4413-b540-342cfd7c4c20)
 
 ### Validation Error
 ![Validation Error](path/to/your/error-screen-image.png)
