@@ -46,7 +46,7 @@ You can access the full design on Figma using the link below:
 
 ## 👤 Author
 
-- **Your Name**
-- [Your GitHub Profile](https://github.com/Mohammed-Aabid-shaikh)
+- **Mohammed Aabid Shaikh**
+- [GitHub Profile](https://github.com/Mohammed-Aabid-shaikh)
 
 ---
