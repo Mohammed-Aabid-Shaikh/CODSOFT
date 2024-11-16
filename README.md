@@ -1,6 +1,6 @@
 # Mobile App SignUp Flow
 
-This project showcases a **Mobile App SignUp Flow** designed in [Figma](https://www.figma.com). It demonstrates a clean and intuitive user experience for user registration.
+This project was created as part of my internship with **CODSOFT**. It showcases a professional **Mobile App SignUp Flow** designed using [Figma](https://www.figma.com). The design reflects a clean and intuitive user experience tailored for seamless user registration.
 
 ---
 
@@ -38,3 +38,15 @@ You can access the full design on Figma using the link below:
 
 ---
 
+## 📝 About CODSOFT
+
+**CODSOFT** is a forward-thinking company fostering innovation and creativity in technology and design. This internship project reflects the standards and expectations upheld by CODSOFT, focusing on quality, attention to detail, and usability.
+
+---
+
+## 👤 Author
+
+- **Your Name**
+- [Your GitHub Profile](https://github.com/Mohammed-Aabid-shaikh)
+
+---
