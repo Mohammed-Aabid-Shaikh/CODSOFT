@@ -37,7 +37,7 @@ A fully functional e-commerce website featuring essential functionalities like p
 ## Contact
 For any queries, feel free to reach out:  
 - **Email**: shaikhmohammedaabid@gmail.com  
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/mohammed-aabid-shaikh-b05baa2a9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- **LinkedIn**: [Mohammed Aabid Shaikh](https://www.linkedin.com/in/mohammed-aabid-shaikh-b05baa2a9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 
