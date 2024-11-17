@@ -14,7 +14,7 @@ The design includes key features tailored for online shopping platforms:
 ## 🖼️ Design Previews
 
 ### Homepage
-![Homepage](https://github.com/user-attachments/assets/bdebf1dd-7523-46c1-a437-2ac6a8f1eecb)
+![Homepage](https://github.com/Mohammed-Aabid-Shaikh/CODSOFT/blob/main/Task_4/E-Commerce%20Website2.jpg)
 
 ---
 

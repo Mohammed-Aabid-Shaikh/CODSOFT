@@ -19,7 +19,7 @@ This template is suitable for newsletters, promotional emails, and transactional
 Below are previews of the email template design:
 
 ### Full Email Layout
-![Email Template](https://github.com/user-attachments/assets/daca6c1b-1cb8-4fe8-b408-07fae109c873)
+![Email Template](https://github.com/Mohammed-Aabid-Shaikh/CODSOFT/blob/main/Task_2/Email%20Template%20in%20figma.png)
 
 ---
 
