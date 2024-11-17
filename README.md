@@ -1,12 +1,12 @@
 # CODSOFT Internship Projects
 
-Welcome to my CODSOFT Internship Projects repository! This repository showcases the projects I developed during my internship at CODSOFT, demonstrating my skills and expertise in web development, UI/UX design, and front-end engineering.
+Welcome to my CODSOFT Internship Projects repository! This repository showcases the projects I developed during my internship at CODSOFT, demonstrating my skills and expertise in UI/UX design.
 
 ---
 
 ## Projects Overview
 
-### 1. [Mobile Signup Flow](./MobileSignupFlow/README.md)
+### 1. [Mobile Signup Flow](./Task_1/README.md)
 A responsive and user-friendly mobile signup flow designed to provide a seamless registration experience.  
 - **Technologies**: HTML, CSS, JavaScript  
 - **Features**: Real-time validation, mobile responsiveness, intuitive design.
