@@ -11,25 +11,25 @@ A responsive and user-friendly mobile signup flow designed to provide a seamless
 - **Technologies**: HTML, CSS, JavaScript  
 - **Features**: Real-time validation, mobile responsiveness, intuitive design.
 
-[Explore Details](./MobileSignupFlow/README.md)
+[Explore Details](./Task_1/README.md)
 
 ---
 
-### 2. [Email Template](./EmailTemplate/README.md)
+### 2. [Email Template](./Task_2/README.md)
 A professional and responsive email template suitable for various purposes such as newsletters, promotions, and updates.  
 - **Technologies**: HTML, Inline CSS  
 - **Features**: Cross-platform compatibility, responsive design.
 
-[Explore Details](./EmailTemplate/README.md)
+[Explore Details](./Task_2/README.md)
 
 ---
 
-### 3. [E-commerce Website](./EcommerceWebsite/README.md)
+### 3. [E-commerce Website](./Task_3/README.md)
 A fully functional e-commerce website featuring essential functionalities like product listings, shopping carts, and user authentication.  
 - **Technologies**: HTML, CSS, JavaScript  
 - **Features**: Product management, user-friendly interface, and responsive design.
 
-[Explore Details](./EcommerceWebsite/README.md)
+[Explore Details](./Task_3/README.md)
 
 ---
 
